@@ -1,4 +1,4 @@
-\# File System Simulator using C++ and Red-Black Tree
+# File System Simulator using C++ and Red-Black Tree
 
 
 
@@ -8,7 +8,7 @@ Each directory stores its subdirectories and files in a Red-Black Tree for fast 
 
 
 
-\## Features
+## Features
 
 \- mkdir <name>
 
@@ -26,12 +26,10 @@ Each directory stores its subdirectories and files in a Red-Black Tree for fast 
 
 
 
-\## Compilation
-
+## Compilation
 
 
 g++ main.cpp filesystem.cpp rbtree.cpp -o fsim
-
 
 
 ./fsim
